@@ -61,8 +61,9 @@
             <div class="col-md-12 text-center">
 
                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered with <i class="icon-heart" aria-hidden="true" style="color:red"></i> by <a href="https://dczambia.com" target="_blank">DotCom Zambia</a>
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered With  <i class="icon-heart" aria-hidden="true" style="color:red"></i> by <a href="https://dczambia.com" target="_blank">DotCom Zambia</a>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    <p><small>Developed By Daniel Ng`andu</small></p>
             </div>
         </div>
     </div>
