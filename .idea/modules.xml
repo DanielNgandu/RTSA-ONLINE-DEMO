@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CodeIgniterApp/.idea/CodeIgniterApp.iml" filepath="$PROJECT_DIR$/../CodeIgniterApp/.idea/CodeIgniterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RATSA.iml" filepath="$PROJECT_DIR$/.idea/RATSA.iml" />
+    </modules>
+  </component>
+</project>
